@@ -1,2 +1,2 @@
 import "./css/styles.css";
-import "./js/themeSwitch";
+import "./js/theme-switch";
