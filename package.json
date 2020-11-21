@@ -1,5 +1,5 @@
 {
-  "name": "food-service",
+  "name": "color-switch",
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server --mode=development",
@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/grchelka/goit-js-hw-10-food-service.git"
+    "url": "git+https://github.com/grchelka/goit-js-hw-11-color-switch.git"
   },
   "dependencies": {
     "handlebars-loader": "^1.7.1",
